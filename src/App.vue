@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import HeaderItem from './components/HeaderItem.vue'
+import HeaderItem from './components/layout/HeaderItem.vue'
 import IndexTop from './components/pages/IndexTop.vue'
 
 
